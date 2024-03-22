@@ -1,0 +1,9 @@
+ are based on measurements and comparisons.
+Thus, we need rules about how things are measured and compared, and we need
+experiments to establish the units for those measurements and comparisons. One
+purpose of physics (and engineering) is to design and conduct those experiments.
+For example, physicists strive to develop clocks of extreme accuracy so that
+any time or time interval can be precisely determined and compared. You may
+wonder whether such accuracy is actually needed or worth the effort. Here is
+one example of the worth: Without clocks of extreme accuracy, the Global
+Positioning System (GPS) that is now vital to worldwide navigation would be useless.
