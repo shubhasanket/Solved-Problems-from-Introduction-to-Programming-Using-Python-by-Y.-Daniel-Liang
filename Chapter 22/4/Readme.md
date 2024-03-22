@@ -1,1 +1,1 @@
-22_4.py contains the solution
+MyGraph.py contains the solution
